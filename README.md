@@ -55,7 +55,9 @@ sh start.sh
 - Construye la imagen api_img.
 - Lanza el contenedor api_ms y ejecuta migraciones si la base de datos está disponible.
 
+**Endpoints**
 
+Están ubicados en el archivo Beos.json
 
 **Acceso a la API:**
 URL: [http://localhost:8000/api]
